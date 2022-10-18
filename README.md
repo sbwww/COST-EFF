@@ -4,7 +4,10 @@ Code of EMNLP 2022 paper "COST-EFF: Collaborative Optimization of Spatial and Te
 
 ---
 
-[toc]
+- [COST-EFF](#cost-eff)
+  - [1. Files and directories](#1-files-and-directories)
+  - [2. Run COST-EFF](#2-run-cost-eff)
+  - [3. Citation](#3-citation)
 
 ## 1. Files and directories
 
