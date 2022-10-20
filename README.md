@@ -1,9 +1,9 @@
 # COST-EFF
 
-| Code of EMNLP 2022 paper<br>COST-EFF: Collaborative Optimization of Spatial and Temporal Efficiency with Slenderized Multi-exit Language Models | ![intro](intro.svg) |
-| :---------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------: |
+| Code of EMNLP 2022 paper<br>COST-EFF: Collaborative Optimization of Spatial and Temporal<br>Efficiency with Slenderized Multi-exit Language Models | ![intro](./img/intro.svg) |
+| :------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: |
 
-![arch](arch.svg)
+![arch](./img/arch.svg)
 
 ---
 
